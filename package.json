@@ -1,0 +1,19 @@
+{
+  "name": "@dannycoates/pocketknife",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannycoates/pocketknife.git"
+  },
+  "author": "Danny Coates",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dannycoates/pocketknife/issues"
+  },
+  "homepage": "https://github.com/dannycoates/pocketknife#readme"
+}
