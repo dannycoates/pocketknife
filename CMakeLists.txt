@@ -138,6 +138,7 @@ set(engine_SRCS # Except main.cpp.
     CuraEngine/src/communication/ArcusCommunicationPrivate.cpp
     CuraEngine/src/communication/CommandLine.cpp
     CuraEngine/src/communication/Listener.cpp
+    slicer/JavascriptCommunication.cpp
 
     CuraEngine/src/infill/ImageBasedDensityProvider.cpp
     CuraEngine/src/infill/NoZigZagConnectorProcessor.cpp
